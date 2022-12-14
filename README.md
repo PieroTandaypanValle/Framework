@@ -7,5 +7,6 @@
 
 #Configurar modelo web
 
-link bootstrap: https://getbootstrap.com
-link Nadvar :https://getbootstrap.com/docs/5.1/components/navbar/
+-link bootstrap: https://getbootstrap.com
+
+-link Nadvar :https://getbootstrap.com/docs/5.1/components/navbar/
